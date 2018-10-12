@@ -106,7 +106,7 @@ namespace ThreadTest29
         {
             //初始化10个线程
             System.Threading.Thread[] threads = new System.Threading.Thread[10];
-            //把balance初始化设定为1000
+            //把$210.220.237.67/ezon/1895.exe$balance初始化设定为1000
             Account acc = new Account(1000);
             for (int i = 0; i < 10; i++)
             {
